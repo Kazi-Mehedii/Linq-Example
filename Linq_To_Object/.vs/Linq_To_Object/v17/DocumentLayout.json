@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IDB\\ALL Project and practice\\LINQ Lamda Expression\\Linq_To_Object\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24B7138B-8DB6-470D-AEFF-6CB36191D8E1}|Linq_To_Object\\Linq_To_Object.csproj|d:\\idb\\all project and practice\\linq lamda expression\\linq_to_object\\linq_to_object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B7138B-8DB6-470D-AEFF-6CB36191D8E1}|Linq_To_Object\\Linq_To_Object.csproj|solutionrelative:linq_to_object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IDB\\ALL Project and practice\\LINQ Lamda Expression\\Linq_To_Object\\Linq_To_Object\\Program.cs",
+              "RelativeDocumentMoniker": "Linq_To_Object\\Program.cs",
+              "ToolTip": "D:\\IDB\\ALL Project and practice\\LINQ Lamda Expression\\Linq_To_Object\\Linq_To_Object\\Program.cs",
+              "RelativeToolTip": "Linq_To_Object\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:15:16.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

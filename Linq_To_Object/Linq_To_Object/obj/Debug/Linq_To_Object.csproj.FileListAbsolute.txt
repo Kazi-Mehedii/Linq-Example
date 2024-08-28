@@ -1,0 +1,7 @@
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\Linq_To_Object\Linq_To_Object\bin\Debug\Linq_To_Object.exe.config
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\Linq_To_Object\Linq_To_Object\bin\Debug\Linq_To_Object.exe
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\Linq_To_Object\Linq_To_Object\bin\Debug\Linq_To_Object.pdb
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\Linq_To_Object\Linq_To_Object\obj\Debug\Linq_To_Object.csproj.AssemblyReference.cache
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\Linq_To_Object\Linq_To_Object\obj\Debug\Linq_To_Object.csproj.CoreCompileInputs.cache
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\Linq_To_Object\Linq_To_Object\obj\Debug\Linq_To_Object.exe
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\Linq_To_Object\Linq_To_Object\obj\Debug\Linq_To_Object.pdb

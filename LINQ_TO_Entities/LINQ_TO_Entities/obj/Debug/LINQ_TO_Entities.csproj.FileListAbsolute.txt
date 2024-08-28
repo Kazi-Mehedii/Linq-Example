@@ -1,0 +1,12 @@
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_TO_Entities\LINQ_TO_Entities\bin\Debug\LINQ_TO_Entities.exe.config
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_TO_Entities\LINQ_TO_Entities\bin\Debug\LINQ_TO_Entities.exe
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_TO_Entities\LINQ_TO_Entities\bin\Debug\LINQ_TO_Entities.pdb
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_TO_Entities\LINQ_TO_Entities\bin\Debug\EntityFramework.dll
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_TO_Entities\LINQ_TO_Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_TO_Entities\LINQ_TO_Entities\bin\Debug\EntityFramework.xml
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_TO_Entities\LINQ_TO_Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_TO_Entities\LINQ_TO_Entities\obj\Debug\LINQ_TO_Entities.csproj.AssemblyReference.cache
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_TO_Entities\LINQ_TO_Entities\obj\Debug\LINQ_TO_Entities.csproj.CoreCompileInputs.cache
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_TO_Entities\LINQ_TO_Entities\obj\Debug\LINQ_TO_.D81FAF0F.Up2Date
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_TO_Entities\LINQ_TO_Entities\obj\Debug\LINQ_TO_Entities.exe
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_TO_Entities\LINQ_TO_Entities\obj\Debug\LINQ_TO_Entities.pdb

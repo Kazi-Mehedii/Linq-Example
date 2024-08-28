@@ -1,0 +1,12 @@
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_To_SQL\LINQ_To_SQL\bin\Debug\LINQ_To_SQL.exe.config
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_To_SQL\LINQ_To_SQL\bin\Debug\LINQ_To_SQL.exe
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_To_SQL\LINQ_To_SQL\bin\Debug\LINQ_To_SQL.pdb
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_To_SQL\LINQ_To_SQL\bin\Debug\EntityFramework.dll
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_To_SQL\LINQ_To_SQL\bin\Debug\EntityFramework.SqlServer.dll
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_To_SQL\LINQ_To_SQL\bin\Debug\EntityFramework.xml
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_To_SQL\LINQ_To_SQL\bin\Debug\EntityFramework.SqlServer.xml
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_To_SQL\LINQ_To_SQL\obj\Debug\LINQ_To_SQL.csproj.AssemblyReference.cache
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_To_SQL\LINQ_To_SQL\obj\Debug\LINQ_To_SQL.csproj.CoreCompileInputs.cache
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_To_SQL\LINQ_To_SQL\obj\Debug\LINQ_To_.0E23652D.Up2Date
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_To_SQL\LINQ_To_SQL\obj\Debug\LINQ_To_SQL.exe
+D:\IDB\ALL Project and practice\LINQ Lamda Expression\LINQ_To_SQL\LINQ_To_SQL\obj\Debug\LINQ_To_SQL.pdb
